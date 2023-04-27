@@ -1,6 +1,1 @@
-I have to write some stuff inside this folder to see if this git hub thing works
-
-I just want to make sure I have enough lines in this to seem legit
-
-
-Let's see how this goes!
+jq '.[].breed' catfacts.json
